@@ -1,0 +1,9 @@
+__pycache__
+**/.DS_Store
+**/data/geopy/geopy_merged/geopy_merged.json
+**/TASK_1/checkpoints/checkpoint_4.csv
+**/TASK_1/checkpoints/checkpoint_5.csv
+**/TASK_1/checkpoints/checkpoint_6.csv
+**/data/incidents_cleaned.csv
+**/data/incidents_cleaned.csv/_MACOSX
+**/data/incidents_indicators.csv
