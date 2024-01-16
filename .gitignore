@@ -1,9 +1,6 @@
 __pycache__
 **/.DS_Store
 **/data/geopy/geopy_merged/geopy_merged.json
-**/TASK_1/checkpoints/checkpoint_4.csv
-**/TASK_1/checkpoints/checkpoint_5.csv
-**/TASK_1/checkpoints/checkpoint_6.csv
 **/data/incidents_cleaned.csv
 **/data/incidents_cleaned.csv/_MACOSX
 **/data/incidents_indicators.csv
@@ -18,3 +15,6 @@ data/clf_y_train_smote.csv
 data/clf_indicators_train.csv
 data/clf_indicators_train_smote.csv
 data/clf_y_train_over.csv
+DM_Group10_TASK1/checkpoints/checkpoint_4.csv
+DM_Group10_TASK1/checkpoints/checkpoint_5.csv
+DM_Group10_TASK1/checkpoints/checkpoint_6.csv
